@@ -1,6 +1,6 @@
 # JFXPushyButton
 
-![Pushy Buttons](https://drive.google.com/open?id=19NvvnTOJZVVX6-ImlCmC88Iq0h6-IxXL)
+![Pushy Buttons](https://raw.githubusercontent.com/Anikeshpatel/JFXPushyButton/master/Main.png.jpg)
 
 > A JavaFX Buttons library.  
 
