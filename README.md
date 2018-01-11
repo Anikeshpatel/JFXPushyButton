@@ -1,3 +1,3 @@
 # JFXPushyButton
 
-![Pushy Buttons](https://github.com/Anikeshpatel/JFXPushyButton/blob/master/2.jpg)
+![Pushy Buttons](https://raw.githubusercontent.com/Anikeshpatel/JFXPushyButton/master/2.jpg)
